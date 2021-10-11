@@ -1,0 +1,45 @@
+#Book{
+width:350px;
+border-radius:50%;
+}
+body{
+text-align: center;
+background:linear-gradient(#3705fc 25%, #d91ead 100%);
+}
+.Menu{
+list-style: none;
+z-index: 10;
+cursor:pointer;
+background: #eb8e23;
+font-size:20px;
+position:fixed;
+width:100%;
+top:0px;
+margin-top:0px;
+}
+.links{
+display: inline;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:25px;
+padding-right:25px;
+}
+.links:hover{
+background-color:aqua
+}
+#Videos{
+font-size:20px;
+}
+#Rowling{
+width:350px;
+height:475px;
+border-radius:50%;
+}
+#Diary{
+width:350px;
+height:475px;
+border-radius:50%;
+}
+body{
+color:yellow;
+}
